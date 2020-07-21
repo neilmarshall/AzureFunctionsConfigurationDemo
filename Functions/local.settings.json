@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SecretKey": "very_secret_key",
+    "CosmosDB:Endpoint": "theendpoint",
+    "CosmosDB:AuthKey": "theauthkey"
+  }
+}
